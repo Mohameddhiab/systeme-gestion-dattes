@@ -1,0 +1,10 @@
+api/.gitignore
+api/composer.json
+api/composer.lock
+.env
+vendor/
+node_modules/
+dist/
+/frontend/system-dattes/.env
+/frontend/system-dattes/.gitignore
+.vscode
